@@ -4,12 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "json-server": "json-server --watch db.json",
-    "serve": "nodemon index.js",
     "start": "node index.js"
   },
   
-  "keywords": [],
+  "keywords":["json-server,heroku, node, REST API"],
   "author": "",
   "license": "ISC",
   "dependencies": {
