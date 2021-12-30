@@ -4,13 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "json-server":"db.json",
+    "start": "nodemon index.js"
   },
-  
-  "keywords":["json-server,heroku, node, REST API"],
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "json-server": "^0.17.0",
     "nodemon": "^2.0.15"
   }
