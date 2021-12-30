@@ -26,5 +26,13 @@
     "title":"Tennis",
     "image":"https://futbolete.com/wp-content/uploads/2021/03/JUAN-CUADRADO-compressed.jpg"
   }
+  ],
+   "imagen":
+  [
+    {
+    "id":"1",
+    "title":"Messi",
+    "image":"./imagen/messi.PNG"
+  }
   ]
 }
